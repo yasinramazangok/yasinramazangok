@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/yasinramazangok">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@yasinramazangok">
+  <a href="https://medium.com/@yasinrmzngok">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
