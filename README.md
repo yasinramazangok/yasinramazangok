@@ -40,34 +40,9 @@
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
 </p>
 
-<h2 align="center">📊 GitHub Stats:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasinramazangok&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinramazangok&theme=gruvbox&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinramazangok&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasinramazangok&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
 <h2 align="center">✍️ Random Dev Quote</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=yasinramazangok&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
-
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=yasinramazangok&icon=0&color=0" alt="Visit Count" />
-  </a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
