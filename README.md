@@ -40,9 +40,6 @@
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
 </p>
 
-<h2 align="center">✍️ Random Dev Quote</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+
 
 
