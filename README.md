@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">👨‍💻 Hi, I'm Yasin Ramazan, a .NET Backend Developer 👨‍💻</h2>
+  <h2 align="center">👨‍💻 Hi, I'm Yasin Ramazan, Junior .NET Developer 👨‍💻</h2>
   <h4 align="center">👨‍🏫 I’m studying at Elazig Firat University, Faculty of Technology, Department of Software Engineering.<br>
   👨‍💻 I’m currently learning .NET.<br>
   🔶My motto is "senior learner 👨‍🏫 junior developer 👨‍💻"</h4>
