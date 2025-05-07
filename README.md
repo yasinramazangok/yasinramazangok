@@ -1,10 +1,11 @@
 <h2 align="center">👨‍💻 Hi, I'm Yasin Ramazan 👨‍💻</h2>
-<h4 align="center">Junior .NET Developer | Passionate about clean code and lifelong learning</h4>
-
 <p align="center">
-  🎓 Software Engineering Student at <strong>Fırat University Faculty of Technology Department of Software Engineering</strong><br>
+  🎓 Student at Elazig Firat University, Faculty of Technology, Department of Software Engineering. I'm also a space and aviation enthusiast.🛩️</strong><br>
   💻 Currently learning and building projects with <strong>.NET</strong><br>
-  📌 Motto: <em>"Senior learner 👨‍🏫 — Junior developer 👨‍💻"</em>
+</p>
+<h4 align="center">"Passionate about clean code and lifelong learning"</h4>
+<p align="center">
+    📌 Motto: <em>"Senior learner 👨‍🏫 Junior developer 👨‍💻"</em>
 </p>
 
 ---
@@ -81,9 +82,6 @@
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yasinramazan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinramazan&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinramazan&layout=compact&theme=radical" alt="Top Languages" />
