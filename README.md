@@ -1,7 +1,9 @@
 <h2 align="center">👨‍💻 Hi, I'm Yasin Ramazan 👨‍💻</h2>
 <p align="center">
   🎓 Student at Elazig Firat University, Faculty of Technology, Department of Software Engineering. I'm also a space and aviation enthusiast.🛩️</strong><br>
-  💻 Currently learning and building projects with <strong>.NET</strong><br>
+</p>
+<p align="center">
+💻 Currently learning and building projects with <strong>.NET</strong><br>
 </p>
 <h4 align="center">"Passionate about clean code and lifelong learning"</h4>
 <p align="center">
@@ -12,11 +14,14 @@
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/yasinramazangok" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:yasinrmzngok@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40" alt="Gmail"/>
   </a>
-  <a href="https://medium.com/@yasinramazangok" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" />
+  <a href="https://linkedin.com/in/yasinramazangok" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@yasinramazangok" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="40" height="40" alt="Medium"/>
   </a>
 </p>
 
