@@ -64,6 +64,7 @@
   <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Azure%20Data%20Studio-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
 </p>
 <p align="center">📚 Concepts & Methodologies</p>
 <p align="center">
