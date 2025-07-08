@@ -1,13 +1,14 @@
 <h2 align="center">👨‍💻 Hi, I'm Yasin Ramazan 👨‍💻</h2>
 <p align="center">
-  🎓 Student at Elazig Firat University, Faculty of Technology, Department of Software Engineering. I'm also a space and aviation enthusiast.🛩️</strong><br>
+  🎓 Software Engineer | .NET Developer | Space & Aviation Enthusiast 🛩️<br>
+  🏫 Graduated from Fırat University, Software Engineering (2025)
 </p>
 <p align="center">
-💻 Currently learning and building projects with <strong>.NET</strong><br>
+  💻 Currently building projects with <strong>.NET</strong>, improving in <strong>Clean Architecture, REST APIs, and CI/CD</strong>.<br>
 </p>
 <h4 align="center">"Passionate about clean code and lifelong learning"</h4>
 <p align="center">
-    📌 Motto: <em>"Senior learner 👨‍🏫 Junior developer 👨‍💻"</em>
+    📌 Motto: <em>"Senior learner 👨‍🏫 | Junior developer 👨‍💻"</em>
 </p>
 
 ---
